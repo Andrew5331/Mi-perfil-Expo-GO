@@ -97,6 +97,7 @@ Con el servidor corriendo y la app abierta en tu teléfono:
 2. Cambia, por ejemplo, el texto del nombre o algún color en los estilos.
 3. Guarda el archivo (`Ctrl + S`).
 4. Tu teléfono va a actualizar la pantalla automáticamente, sin perder el estado de la app ni tener que reescanear el QR. A esto se le llama **Fast Refresh**.
+<img width="702" height="1600" alt="5b24fb55-3037-40d5-8729-2d4d70ec98c2" src="https://github.com/user-attachments/assets/6fcf6752-7812-4bb2-9c14-e85bb46b1cd6" />
 
 ---
 
